@@ -132,8 +132,8 @@ Secure authentication page for controlled file download, featuring login flow, f
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorProgene&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorProgene&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=VictorProgene&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=VictorProgene&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
