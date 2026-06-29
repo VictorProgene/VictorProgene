@@ -66,44 +66,6 @@ Currently, I specialize in Python (FastAPI/Flask), TypeScript (React), Backend A
 
 - 🪶 SQLite | 🐬 MySQL | 🐘 PostgreSQL
 
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-
----
-
-## 📂 Featured Projects
-
-### 🤖 AI Store Agent
-An AI agent that handles customer service via WhatsApp. Built with **n8n** and leverages a custom **Python web scraper**, OpenAI, and databases for conversational interactions.
-
-### ⚡ TaskFlow API (Back-End)
-Taskflow API: A lightweight, Jira-like project management backend built with **FastAPI**. Features secure user authentication and clean workflow/task management endpoints.
-
-### ⚛️ React Jira like site (Front-End)
-Taskflow Web: An intuitive, Jira-like project management frontend built with **React**, **TypeScript**, and **Tailwind CSS**. Features a clean Kanban board interface, seamless state management, and real-time interaction with the Taskflow API.
-
-### 📊 E-commerce Scraper
-A Python script that extracts product information and automatically compiles it into a structured spreadsheet. Developed with Python.
-
-### 🐍 Retro Snake Game
-A classic Snake game built as a practical project to master Object-Oriented Programming (OOP) and class structures.
-
-### 📝 Flask Full stack Blog
-Full-stack blog platform featuring RESTful routing, secure user auth, database persistence, and dynamic HTML template rendering.
-
-### ☕ London Coffe & Wifi finder API
-Web application for mapping specialized coffee spots. Includes data collection forms, backend validation, and CSV storage.
-
-### 🎬 Movie Ranking Application
-Personal movie tracker application built with CRUD mechanics and dynamic external API integrations for metadata fetching.
-
-### 🔐 Authentication & File Download Portal
-Secure authentication page for controlled file download, featuring login flow, form validation, CSV handling, and lightweight SQLite data persistence.
-
 ---
 
 ## 📚 Currently Learning
@@ -116,16 +78,6 @@ Secure authentication page for controlled file download, featuring login flow, f
 - Clean Code
 - Software Architecture
 - Artificial Intelligence
-
----
-
-## 🎯 Career Goals
-
-- 🚀 Become a Backend Developer
-- 🌎 Work remotely for international companies
-- ☁️ Master AWS & Cloud Computing
-- 🤖 Build AI-powered applications
-- 🤝 Contribute to Open Source
 
 ---
 
@@ -149,7 +101,3 @@ Secure authentication page for controlled file download, featuring login flow, f
 
 - 💼 LinkedIn: www.linkedin.com/in/eng-joão-victor-progene
 - 📧 Email: victorprogene@gmail.com
-
----
-
-> **Veni, Vidi, Vici.**
