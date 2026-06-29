@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou o Victor!
+# 👋 Hi, I'm Victor!
 
 ### Full-Stack Developer • Control and Automation Engineer (CREA-PA) • AI Specialist
 
 ---
 
-## 🏛️ Sobre Mim
+## 🏛️ About Me
 
 ```python
 from dataclasses import dataclass
@@ -36,14 +36,6 @@ class Profile:
 
     goal = "Work remotely building scalable software and AI solutions for international companies."
 ```
-
----
-
-## 🚀 About Me
-
-I'm a Control and Automation Engineer leveraging software architecture, APIs, and modern frameworks to build intelligent web applications.
-
-Currently, I specialize in Python (FastAPI/Flask), TypeScript (React), Backend Architecture, Automated Workflow Systems (n8n/Selenium), and Artificial Intelligence Agents. I focus on creating clean, production-ready code targeting remote and international engineering opportunities.
 
 ---
 
